@@ -1,0 +1,28 @@
+_repo: The-Desert-Fiddler_25960
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamby, William H. (William Henry)
+    birthdate: 1876
+    deathdate: 1928
+    gutenberg_agent_id: '31694'
+    url: http://www.gutenberg.org/2009/agents/31694
+description: ''
+gutenberg_issued: '2008-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Cotton farmers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Fiddlers -- Fiction'
+title: The Desert Fiddler
+url: http://www.gutenberg.org/ebooks/25960
